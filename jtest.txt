@@ -1,3 +1,7 @@
+<<<<<<< .merge_file_i1BSnT
 bbbb녕하세요.
+=======
+aaa녕하세요.
+>>>>>>> .merge_file_Eks1p0
 aaaaa
 gdgd
